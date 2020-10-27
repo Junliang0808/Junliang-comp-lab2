@@ -8,7 +8,7 @@ export default {
     margin: 0 auto;
     width: 95%;
     margin-top: 2em;
-    background: #f1c40f;
+    background: pink;
     color: #2c3e50;
     display: flex;
     align-items: center;
